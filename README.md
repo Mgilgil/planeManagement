@@ -1,4 +1,4 @@
-# Plane Management System ✈️  
+# Plane Management System 
 
 This project was developed as part of my university coursework.  
 It simulates a simple airline ticketing system with the ability to:  
